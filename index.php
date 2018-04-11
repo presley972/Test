@@ -1,4 +1,3 @@
 <?php
-bbdinjnx sl,dcinqcns cqxj
 
-phpinfo();
+echo '<h1> Hello, World<h1>';
